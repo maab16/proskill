@@ -1,0 +1,12 @@
+{
+    "name": "ProSkill",
+    "version": "1.0.0",
+    "description": "ProSkill HTML Template",
+    "main": "index.js",
+    "scripts": {
+      "start": "sass --watch assets/scss/online-course.scss:assets/css/online-course.css assets/scss/course-platfrome.scss:assets/css/course-platfrome.css assets/scss/children-education.scss:assets/css/children-education.css assets/scss/online-university.scss:assets/css/online-university.css assets/scss/chef.scss:assets/css/chef.css assets/scss/health-coach.scss:assets/css/health-coach.css"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+  }
